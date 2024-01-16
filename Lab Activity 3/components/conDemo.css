@@ -1,0 +1,13 @@
+button{
+    background-color: aqua;
+    border: none;
+}
+
+button:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+
+h1{
+    color: darkgoldenrod;
+}
